@@ -46,3 +46,11 @@ a{
    margin: 0 auto; 
 }
 
+/* Styling that will apply to id's "main-bio, contact-info, and bio-image" */
+
+#main-bio,
+#contact-info,
+#bio-image{
+    float: left;
+}
+
