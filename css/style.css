@@ -10,3 +10,9 @@ body{
     background: #efeee7;
 }
 
+/* This will affect the header section of the page */
+
+header{
+    background: #333
+}
+
