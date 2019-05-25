@@ -29,4 +29,7 @@ h1{
 
 /* This will affect all h2's omn the page */
 
+h2{
+    font-size: 24px;
+}
 
