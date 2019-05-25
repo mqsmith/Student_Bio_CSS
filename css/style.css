@@ -33,3 +33,16 @@ h2{
     font-size: 24px;
 }
 
+/* This will apply to all the a's on the page */
+
+a{
+    color: #d21034;
+}
+
+/* Adding style to a class */
+
+.page{
+   width: 1024px;
+   margin: 0 auto; 
+}
+
