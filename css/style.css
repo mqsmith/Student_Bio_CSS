@@ -16,3 +16,17 @@ header{
     background: #333
 }
 
+/* This will affect tall h1's on the page */
+
+h1{
+    padding: 20px 0;
+    margin: 0;
+    margin-bottom: 20px;
+    font-size: 28px;
+    color: #eee;
+    text-align: center;
+}
+
+/* This will affect all h2's omn the page */
+
+
