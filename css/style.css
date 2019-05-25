@@ -50,7 +50,26 @@ a{
 
 #main-bio,
 #contact-info,
-#bio-image{
+#bio-image {
     float: left;
 }
 
+/* This style applies only the main-bio id. */
+
+#main-bio{
+    width: 70%;
+}
+
+/* This style applies only the contact-info id. */
+
+#contact-info{
+    width: 30%;
+}
+
+/* This style only applies to the bio-imgage id. */
+
+#bio-image{
+    width: 200px;
+    height: 200px;
+    margin-right: 20px;
+}
